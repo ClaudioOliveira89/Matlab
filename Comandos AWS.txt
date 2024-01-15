@@ -1,0 +1,5 @@
+cdk list
+
+cdk deploy --all
+
+cdk diff
